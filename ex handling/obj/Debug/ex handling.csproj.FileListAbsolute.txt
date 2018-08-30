@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ex handling\ex handling\bin\Debug\ex handling.exe.config
+C:\Users\User\source\repos\ex handling\ex handling\bin\Debug\ex handling.exe
+C:\Users\User\source\repos\ex handling\ex handling\bin\Debug\ex handling.pdb
+C:\Users\User\source\repos\ex handling\ex handling\obj\Debug\ex handling.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ex handling\ex handling\obj\Debug\ex handling.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ex handling\ex handling\obj\Debug\ex handling.exe
+C:\Users\User\source\repos\ex handling\ex handling\obj\Debug\ex handling.pdb
