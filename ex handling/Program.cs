@@ -33,11 +33,11 @@ namespace ex_handling
             }
             catch (DivideByZeroException ex)
             {
-                Console.WriteLine("Please Type a Number");
+                Console.WriteLine("Please Dont divide by zero");
             }
             catch (FormatException ex)
             {
-                Console.WriteLine("Please Dont divide by zero");
+                Console.WriteLine("Please type a number");
             }
             finally
             {
