@@ -1,0 +1,7 @@
+c:\users\user\source\repos\methods\methods\obj\Debug\methods.csprojAssemblyReference.cache
+c:\users\user\source\repos\methods\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\methods\methods\bin\Debug\methods.exe.config
+c:\users\user\source\repos\methods\methods\bin\Debug\methods.exe
+c:\users\user\source\repos\methods\methods\bin\Debug\methods.pdb
+c:\users\user\source\repos\methods\methods\obj\Debug\methods.exe
+c:\users\user\source\repos\methods\methods\obj\Debug\methods.pdb
