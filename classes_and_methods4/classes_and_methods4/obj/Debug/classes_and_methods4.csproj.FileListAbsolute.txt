@@ -1,0 +1,7 @@
+c:\users\user\source\repos\classes_and_methods4\classes_and_methods4\bin\Debug\classes_and_methods4.exe.config
+c:\users\user\source\repos\classes_and_methods4\classes_and_methods4\bin\Debug\classes_and_methods4.exe
+c:\users\user\source\repos\classes_and_methods4\classes_and_methods4\bin\Debug\classes_and_methods4.pdb
+c:\users\user\source\repos\classes_and_methods4\classes_and_methods4\obj\Debug\classes_and_methods4.csprojAssemblyReference.cache
+c:\users\user\source\repos\classes_and_methods4\classes_and_methods4\obj\Debug\classes_and_methods4.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\classes_and_methods4\classes_and_methods4\obj\Debug\classes_and_methods4.exe
+c:\users\user\source\repos\classes_and_methods4\classes_and_methods4\obj\Debug\classes_and_methods4.pdb
