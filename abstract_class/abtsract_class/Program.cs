@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace abtsract_class
 {
-    class Program
+   abstract class Program
     {
         static void Main(string[] args)
         {
