@@ -1,0 +1,7 @@
+c:\users\user\source\repos\abtsract_class\abtsract_class\bin\Debug\abtsract_class.exe.config
+c:\users\user\source\repos\abtsract_class\abtsract_class\bin\Debug\abtsract_class.exe
+c:\users\user\source\repos\abtsract_class\abtsract_class\bin\Debug\abtsract_class.pdb
+c:\users\user\source\repos\abtsract_class\abtsract_class\obj\Debug\abtsract_class.csprojAssemblyReference.cache
+c:\users\user\source\repos\abtsract_class\abtsract_class\obj\Debug\abtsract_class.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\abtsract_class\abtsract_class\obj\Debug\abtsract_class.exe
+c:\users\user\source\repos\abtsract_class\abtsract_class\obj\Debug\abtsract_class.pdb
